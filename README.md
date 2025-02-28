@@ -1,4 +1,4 @@
-**3️⃣ Image Metadata Storage — Step-by-Step Guide**  
+**3️ Image Metadata Storage — Step-by-Step Guide**  
 
 **Objective:**  
 When an image is uploaded to an S3 bucket, capture its metadata (like filename, size, and upload date) and store it in a DynamoDB table using a Lambda function.  
